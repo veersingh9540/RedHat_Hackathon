@@ -21,10 +21,16 @@ This project implements a Resume Matcher that predicts the category of a resume 
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository and run requirements.txt:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+   pip intall requirements.txt
+Note Virual env is not necessary :
+  ```bash
+  python -m venv myenv
+  source myenv/bin/activate 
+
 2. To Train the Model and then predict on the resume and JD
    use Path to JD and resume
    ```bash
