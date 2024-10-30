@@ -6,9 +6,9 @@ This project implements a Resume Matcher that predicts the category of a resume 
 
 - [Requirements]
 - [Installation]
-- [Usage](#usage)
+- [Usage]
 - [How the Prediction Model Works]
-- [Cosine Similarity](#cosine-similarity)
+- [Cosine Similarity]
 
 ## Requirements
 
